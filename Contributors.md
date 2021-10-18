@@ -5,6 +5,7 @@
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
+- [Ankit Gupta](https://github.com/luckyhero613)
 - [cricri777](https://github.com/cricri777)
 - [sm0rux](https://github.com/sm0rux) -[generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
